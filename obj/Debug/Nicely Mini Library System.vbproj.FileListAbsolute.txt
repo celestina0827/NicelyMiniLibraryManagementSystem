@@ -1,0 +1,144 @@
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe.config
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.pdb
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.xml
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SplashScreen.resources
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.LoginForm.resources
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.RegisterForm.resources
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentForm.resources
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.Resources.resources
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.vbproj.GenerateResource.Cache
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.exe
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.xml
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.pdb
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\MySql.Data.dll
+C:\Users\Ngzk0\Downloads\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.vbprojResolveAssemblyReference.cache
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AboutBox.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AdminDashboard.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookDetailsForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ManageBookForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReportForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SettingsForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SplashScreen.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.LoginForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.RegisterForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.Resources.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentManagementForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.vbproj.GenerateResource.Cache
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\CmpNet.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\Database.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\History1.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\History2.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\learnCode.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\Naruto.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\Novel1.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\Novel2.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\OnePice.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\phy1.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\phy2.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\image\phy3.jpg
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe.config
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.pdb
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.xml
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.exe
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.xml
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.pdb
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowHistoryForm.resources
+C:\Users\chong\Downloads\Nicely_Mini_Library_Member1_Completed(1)\Nicely_Mini_Library_Member1_Completed\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReturnForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe.config
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.exe
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.xml
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.pdb
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AboutBox.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AdminDashboard.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookDetailsForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ManageBookForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReportForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SettingsForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowHistoryForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReturnForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SplashScreen.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.LoginForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.RegisterForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.Resources.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentManagementForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System - Member 1\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.vbproj.GenerateResource.Cache
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe.config
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.exe
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.xml
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.pdb
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AboutBox.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AdminDashboard.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookDetailsForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ManageBookForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReportForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SettingsForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SplashScreen.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.LoginForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.RegisterForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.Resources.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentManagementForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.vbproj.GenerateResource.Cache
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\CmpNet.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Database.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\History1.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\History2.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\learnCode.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Naruto.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Novel1.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Novel2.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\OnePice.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\phy1.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\phy2.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\phy3.jpg
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.pdb
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.xml
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowHistoryForm.resources
+C:\Users\chong\OneDrive\Desktop\Template\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReturnForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe.config
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.exe
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.xml
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.pdb
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\CmpNet.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Database.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\History1.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\History2.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\learnCode.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Naruto.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Novel1.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\Novel2.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\OnePice.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\phy1.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\phy2.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\image\phy3.jpg
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.exe
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.pdb
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\bin\Debug\Nicely Mini Library System.xml
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AboutBox.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.AdminDashboard.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookDetailsForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BookForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ManageBookForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReportForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SettingsForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.BorrowHistoryForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.ReturnForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.SplashScreen.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.LoginForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.RegisterForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.Resources.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely_Mini_Library_System.StudentManagementForm.resources
+C:\Users\chong\OneDrive\Desktop\Nicely Mini Library System\Nicely Mini Library System\obj\Debug\Nicely Mini Library System.vbproj.GenerateResource.Cache
