@@ -1,0 +1,13 @@
+﻿Book ID,Title,Author,Category,Quantity,Status
+"101","Naruto  Vol. 1: Uzumaki Naruto","Masashi Kishimoto","Comic","5","Unavailable"
+"102","One Piece  Vol. 1","Eiichiro Oda","Comic","3","Available"
+"103","Clean Code: A Handbook of Agile Software Craftsmanship","Robert C. Martin","Computer Science","5","Available"
+"104","Computer Networking: A Top-Down Approach","James F. Kurose  Keith W. Ross","Computer Science","2","Available"
+"105","Database System Concepts","Abraham Silberschatz  Henry F. Korth  S. Sudarshan","Computer Science","2","Available"
+"106","A Little History of the World","E. H. Gombrich","History","2","Available"
+"107","The Silk Roads: A New History of the World","Peter Frankopan","History","3","Available"
+"108","The Fault in Our Stars","John Green","Novel","3","Available"
+"109","The Alchemist","Paulo Coelho","Novel","5","Available"
+"110","Thinking  Fast and Slow","Daniel Kahneman","Psychology","3","Available"
+"111","The Psychology of Money","Morgan Housel","Psychology","2","Available"
+"112","Man's Search for Meaning","Viktor E. Frankl","Psychology","4","Available"
